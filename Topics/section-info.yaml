@@ -1,0 +1,61 @@
+content:
+- Anonymous classes
+- Recursion
+- The utility class Collections
+- Regexes in programs
+- Patterns and Matcher
+- Throwing exceptions
+- Custom exceptions
+- Abstract factory
+- Command-line arguments
+- Lambda expressions
+- Threads as objects
+- Custom threads
+- Template method
+- The Set interface
+- The Map interface
+- The main method
+- Default methods
+- Method references
+- States of a thread
+- Math library
+- The while and do-while loops
+- Queue and Stack
+- Iterator and Iterable
+- Integer types and operations
+- Runtime type checking
+- Generic methods
+- Type Bounds
+- Conditional statement
+- Wildcards
+- Type Erasure
+- Instance methods
+- Factory method
+- Thread management
+- Reification
+- Abstract class
+- Retrieving Class instances
+- Dealing with modifiers
+- Manipulating fields and methods
+- Detecting annotations
+- Custom annotations and types of annotations
+- Standard functional interfaces
+- Switch expression
+- Optional
+- Function composition
+- Comparator
+- Functional data processing with streams
+- Stream filtering
+- Infinite streams
+- Interruptions
+- Callable and Future
+- Timers
+- Overloading
+- Map and flatMap
+- Reduction methods
+- Collectors
+- Taking elements
+- Stream pipelines
+- Parallel streams
+- Grouping collectors
+- Streams of primitives

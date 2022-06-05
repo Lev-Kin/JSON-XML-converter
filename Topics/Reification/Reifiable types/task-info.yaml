@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: A raw type
+- text: A parameterized type in which all type arguments are unbounded wildcards
+- text: An array whose component type is reifiable
+- text: A primitive type
+- text: A nonparameterized interface type
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2605#comment
+status: Solved
+record: -1

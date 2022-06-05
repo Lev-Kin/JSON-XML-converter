@@ -1,0 +1,57 @@
+# Project exclude paths
+/.gradle/
+/JSON - XML converter/task/build/
+/JSON - XML converter/task/out/
+/JSON - XML converter/task/out/production/classes/
+/Topics/Abstract factory/Burgers/out/
+/Topics/Abstract factory/Burgers/out/production/classes/
+/Topics/Callable and Future/Theory/out/
+/Topics/Callable and Future/Theory/out/production/classes/
+/Topics/Collectors/The product of squares/out/
+/Topics/Collectors/The product of squares/out/production/classes/
+/Topics/Factory method/Theory/out/
+/Topics/Factory method/Theory/out/production/classes/
+/Topics/Function composition/Disjunct all/out/
+/Topics/Function composition/Disjunct all/out/production/classes/
+/Topics/Function composition/The chain of responsibility/out/
+/Topics/Function composition/The chain of responsibility/out/production/classes/
+/Topics/Generic methods/The first element/out/
+/Topics/Generic methods/The first element/out/production/classes/
+/Topics/Integer types and operations/The sum of digits/out/
+/Topics/Integer types and operations/The sum of digits/out/production/classes/
+/Topics/Interruptions/Theory/out/
+/Topics/Interruptions/Theory/out/production/classes/
+/Topics/Map and flatMap/Count words without repetitions/out/
+/Topics/Map and flatMap/Count words without repetitions/out/production/classes/
+/Topics/Map and flatMap/Maximum of the absolute values/out/
+/Topics/Map and flatMap/Maximum of the absolute values/out/production/classes/
+/Topics/Map and flatMap/Theory/out/
+/Topics/Map and flatMap/Theory/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/
+/Topics/Optional/Check an Optional value/out/
+/Topics/Optional/Check an Optional value/out/production/classes/
+/Topics/Optional/Create an Optional value/out/
+/Topics/Optional/Create an Optional value/out/production/classes/
+/Topics/Optional/The address book/out/
+/Topics/Optional/The address book/out/production/classes/
+/Topics/Optional/Theory/out/
+/Topics/Optional/Theory/out/production/classes/
+/Topics/Overloading/Print/out/
+/Topics/Overloading/Print/out/production/classes/
+/Topics/Parallel streams/Fix the sorting order/out/
+/Topics/Parallel streams/Fix the sorting order/out/production/classes/
+/Topics/Recursion/N-th power/out/
+/Topics/Recursion/N-th power/out/production/classes/
+/Topics/Stream filtering/Theory/out/
+/Topics/Stream filtering/Theory/out/production/classes/
+/Topics/Taking elements/Secret codes/out/
+/Topics/Taking elements/Secret codes/out/production/classes/
+/Topics/The Map interface/Kidnapper of Ice cream/out/
+/Topics/The Map interface/Kidnapper of Ice cream/out/production/classes/
+/Topics/The utility class Collections/Frequency of characters/out/
+/Topics/The utility class Collections/Frequency of characters/out/production/classes/
+/Topics/The utility class Collections/Multiple swaps/out/
+/Topics/The utility class Collections/Multiple swaps/out/production/classes/
+/Topics/The utility class Collections/Rotating table/out/
+/Topics/The utility class Collections/Rotating table/out/production/classes/

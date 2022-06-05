@@ -1,0 +1,9 @@
+content:
+- Theory
+- Print name of TERMINATED thread
+- Runnable state
+- What is a thread status
+- A thread in NEW state
+- The current state of a thread
+- The magic of RUNNABLE state
+- Finding and starting a thread
